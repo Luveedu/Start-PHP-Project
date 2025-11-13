@@ -25,4 +25,4 @@ A lightweight bash script to instantly generate a standard PHP project structure
 Run this command in your terminal to download and execute the script instantly:
 
 ```bash
-curl -s [https://raw.githubusercontent.com/Luveedu/Start-PHP-Project/main/run.sh](https://raw.githubusercontent.com/Luveedu/Start-PHP-Project/main/run.sh) | bash
+curl -s https://raw.githubusercontent.com/Luveedu/Start-PHP-Project/main/run.sh | bash
