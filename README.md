@@ -1,5 +1,5 @@
 <div align="center">
-# ⚡ Start PHP Project Script
+⚡ Start PHP Project Script
 A lightweight bash script to instantly generate a standard PHP project structure with organized directories and essential files.
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/Luveedu/Start-PHP-Project)
