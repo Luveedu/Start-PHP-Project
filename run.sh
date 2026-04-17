@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Create directories
-mkdir -p assets functions config controllers includes images uploads
+mkdir -p assets functions config controllers includes images uploads admin
 
 # Create files in assets directory
 touch assets/main.css
@@ -18,6 +18,7 @@ touch includes/search.php
 
 # Create index.php
 touch index.php
+touch .htaccess
 
 # Display completion message
 echo "Folder structure created successfully!"
@@ -30,6 +31,7 @@ echo "- controllers/"
 echo "- includes/"
 echo "- images/"
 echo "- uploads/"
+echo "- admin/"
 echo ""
 echo "Created files:"
 echo "- assets/main.css"
@@ -40,3 +42,4 @@ echo "- includes/head.php"
 echo "- includes/footer.php"
 echo "- includes/search.php"
 echo "- index.php"
+echo "- .htaccess"
